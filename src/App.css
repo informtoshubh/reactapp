@@ -154,7 +154,7 @@ button{
 
 @media(max-width:786px){
   .center_div{
-    width: 55%;
+    width: 90%;
   }
 
   .todo_style .fa-items {
