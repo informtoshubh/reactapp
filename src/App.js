@@ -11,7 +11,6 @@ import Form from './components/Form';
 import ChangeColor from './components/ChangeColor';
 import Clock from './components/Clock';
 import Like from './components/Like';
-import Pokemon from './components/Pokemon';
 
 
 function App() {
@@ -116,7 +115,6 @@ const [inputList, setInputList] = useState("");
           </ol>
           </div>
         </div>
-        <Pokemon/>
       </header>
     </div>
   );
