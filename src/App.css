@@ -45,7 +45,7 @@
 }
 
 .divbox{
-  width:50%;
+  width:90%;
   height: 100vh;
   margin: 50px auto;
   background: #8e44ad;
@@ -77,7 +77,7 @@ button{
 }
 
 .center_div{
-  width:30%;
+  width:90%;
   height: 80vh;
   background-color: #f4f4f4;
   box-shadow: 5px 5px 25px -5px rgba(0,0,0,0.5);
